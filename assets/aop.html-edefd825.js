@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-14973cf4","path":"/skill/js/aop.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"AOP面向切面编程","slug":"aop面向切面编程","link":"#aop面向切面编程","children":[]}],"git":{"updatedTime":1732592226000,"contributors":[{"name":"justice","email":"1393080039@qq.com","commits":1}]},"filePathRelative":"skill/js/aop.md"}');export{t as data};
